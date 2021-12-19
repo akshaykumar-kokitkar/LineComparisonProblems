@@ -24,7 +24,7 @@ namespace LineComarisonProblems
             int point1 = x2 - x1;
             int point2 = y2 - y1;
             Console.WriteLine("cordinates are x1,y1,x2,y2 {0} {1} {2} {3}", x1, y1, x2, y2);
-            double total = Math.Sqrt((point1) + (point2));
+            double total = Math.Sqrt(((point1)^2) + ((point2)^2));
             return total;
         }
 

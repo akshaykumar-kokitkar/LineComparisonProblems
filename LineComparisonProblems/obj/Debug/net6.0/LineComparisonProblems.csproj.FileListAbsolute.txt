@@ -12,3 +12,4 @@ C:\Users\ak\Desktop\BridgeLabz Project\LineComparisonProblems\LineComparisonProb
 C:\Users\ak\Desktop\BridgeLabz Project\LineComparisonProblems\LineComparisonProblems\obj\Debug\net6.0\ref\LineComparisonProblems.dll
 C:\Users\ak\Desktop\BridgeLabz Project\LineComparisonProblems\LineComparisonProblems\obj\Debug\net6.0\LineComparisonProblems.pdb
 C:\Users\ak\Desktop\BridgeLabz Project\LineComparisonProblems\LineComparisonProblems\obj\Debug\net6.0\LineComparisonProblems.genruntimeconfig.cache
+C:\Users\ak\Desktop\BridgeLabz Project\LineComparisonProblems\LineComparisonProblems\obj\Debug\net6.0\LineComparisonProblems.csproj.AssemblyReference.cache
